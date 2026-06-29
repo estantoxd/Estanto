@@ -1,66 +1,80 @@
 <div align="center">
-  <h1>Hi, I'm Emre 👋</h1>
-  <p><strong>Full-Stack Developer | Software Craftsman | System Architect</strong></p>
+  <!-- Minimalist Premium Header -->
+  <kbd><b>ESTANTOXD // SOFTWARE ENGINEER</b></kbd>
+  <br />
+  <br />
+  <h1>Building Scalable, High-Performance Digital Products 🚀</h1>
+  <p><i>I translate complex business challenges into elegant, fast, and secure software solutions.</i></p>
   
   <p>
-    <a href="https://discord.com/users/203399611941912586"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://www.instagram.com/dvn_emre?igsh=MXRteDcwem5wemF2bQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://discord.com/users/203399611941912586"><img src="https://img.shields.io/badge/Start_Project_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://www.instagram.com/dvn_emre?igsh=MXRteDcwem5wemF2bQ=="><img src="https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Services & Expertise
 
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <br />
-  <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+*   **Full-Stack Product Development** – End-to-end development of modern web applications using React, Next.js, and Node.js.
+*   **Scalable Backend Architectures** – Designing high-throughput, secure REST/GraphQL APIs and microservices.
+*   **Database Design & Optimization** – Structuring efficient relational (PostgreSQL) and non-relational (MongoDB) databases.
+*   **Cloud & Deployment (DevOps)** – Containerizing apps with Docker and automating deployments for zero-downtime.
 
 ---
 
-### 🧠 About Me
+### 🧠 Developer Profile
 
-```json
-{
-  "name": "Emre",
-  "alias": "estantoxd",
-  "age": 20,
-  "experience": "3 Years",
-  "location": "Çanakkale, Turkey",
-  "focus": [
-    "High-Performance Web Applications",
-    "Scalable Backend Architectures",
-    "Interactive UI/UX Design"
-  ],
-  "looking_for": "Collaborations on innovative full-stack projects & remote opportunities"
-}
+```yaml
+identity:
+  name: Emre
+  role: Full-Stack Developer & Software Specialist
+  location: Çanakkale, Turkey
+  experience: 3+ Years
+
+metrics:
+  clean_code: true
+  client_focused: true
+  performance_driven: true
+
+current_stack:
+  languages: [JavaScript, TypeScript, Go, Python]
+  frameworks: [React, Next.js, Express, TailwindCSS]
+  infrastructure: [PostgreSQL, MongoDB, Docker, Git]
 ```
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Core Technologies
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **E-Commerce API/Platform** | Scalable, secure backend & frontend solution built for modern digital commerce. | React, Node.js, PostgreSQL, Docker | [Repo](https://github.com/estantoxd/e-ticaret) |
-| **Real-time Chat Application** | Real-time messaging service featuring rooms, indicators, and instant sync. | TS, Next.js, Socket.io, Redis | [Repo](https://github.com/estantoxd) |
-| **Task Management Tool** | Agile project workspace with interactive boards, reports, and team permissions. | React, Go, MongoDB | [Repo](https://github.com/estantoxd) |
+<div align="center">
+  <!-- Badges with a modern flat-square style and unified dark theme -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Selected Works
+
+| Project | Solution Delivered | Tech Stack | Showcase |
+| :--- | :--- | :--- | :--- |
+| **E-Commerce API/Platform** | Built a high-performance shopping backend with secure checkouts and inventory sync. | React, Node.js, PostgreSQL, Docker | [Repository](https://github.com/estantoxd/e-ticaret) |
+| **Real-time Chat Engine** | Engineered a low-latency chat service supporting concurrent rooms and notifications. | TS, Next.js, Socket.io, Redis | [Repository](https://github.com/estantoxd) |
+| **Enterprise Task Workspace** | Delivered an agile team planner with real-time board updates and permission controls. | React, Go, MongoDB | [Repository](https://github.com/estantoxd) |
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estantoxd&show_icons=true&theme=dark" alt="estantoxd's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estantoxd&layout=compact&theme=dark" alt="Top Languages" />
+  <h3>⚡ Let's build something exceptional together</h3>
+  <p>I'm currently accepting select freelance projects, contract roles, and technical collaborations.</p>
+  <p>📫 Reach out on <b>Discord</b> or <b>Instagram</b> to discuss your project requirements.</p>
 </div>
